@@ -3,8 +3,8 @@
 Este projeto automatiza a lógica de precificação e aplicação de descontos, servindo como base para a etapa de **Test** em um pipeline de CI/CD.
 
 ## Tecnologias e Ferramentas
-* **Linguagem:** Python 3.13+
-* **Framework de Testes:** Pytest 9.0+
+* **Linguagem:** Python 
+* **Framework de Testes:** Pytest 
 
 ## Estrutura de Arquivos
 * `carrinho.py`: Contém as funções de lógica de negócio (`calcular_total` e `aplicar_desconto`).
